@@ -1,1 +1,1 @@
-# HackerRankJava
+# HackerRankJava for git command exercise
