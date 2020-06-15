@@ -4,8 +4,7 @@ public class AlternatingCharac {
 		// TODO Auto-generated method stub
 		String s="ABBABAABB";
 		alternatingCharacters(s);
-	} 
-	String revert = "Will revert this change";
+	}
 	
     static int alternatingCharacters(String s) {
         int c=0;
